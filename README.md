@@ -7,24 +7,29 @@
 <h3 align="center">💻 IT System Engineer | 🧠 AI & IoT Innovator | ⚙️ Circuit & PCB Designer</h3>
 
 <!-- 🌟 Profile Stats Card -->
+<!-- 🌟 Modern GitHub Stats Card -->
 <div align="center">
 
-  
+  <h2 align="center">✨ My GitHub Profile</h2>
+  <p align="center">
+    <i>Crafting circuits, code, and creative systems ⚡</i>
+  </p>
 
   <img 
-    src="https://github-widgetbox.vercel.app/api/profile?username=MANOJJADHAV4000&data=followers,repositories,stars,commits&theme=radical&title_color=00F5FF&icon_color=79FF97" 
-    alt="GitHub WidgetBox Profile"
-    width="85%"
-    style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0, 255, 255, 0.2);" 
+    src="https://github-widgetbox.vercel.app/api/profile?username=MANOJJADHAV4000&data=followers,repositories,stars,commits&theme=radical&title_color=00E6FE&icon_color=00F5FF&bg_color=0D1117" 
+    alt="Manoj's GitHub Profile Stats" 
+    width="420px" 
+    style="border-radius: 14px; margin-top: 10px;" 
   />
 
   <br><br>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=MANOJJADHAV4000&theme=radical&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" 
-    alt="GitHub Streak Stats" 
-    width="85%"
-  />
+  <a href="https://github.com/MANOJJADHAV4000">
+    <img 
+      src="https://img.shields.io/badge/-View%20Repositories-00E6FE?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Repositories" 
+    />
+  </a>
 
 </div>
 
