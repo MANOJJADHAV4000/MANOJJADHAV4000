@@ -6,9 +6,25 @@
 
 <h3 align="center">💻 IT System Engineer | 🧠 AI & IoT Innovator | ⚙️ Circuit & PCB Designer</h3>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=MANOJJADHAV4000&data=followers,repositories,stars,commits&theme=radical&title_color=00F5FF" />
-</p>
+<!-- 🌟 Profile Stats Card -->
+<div align="center">
+
+  
+
+  <img 
+    src="https://github-widgetbox.vercel.app/api/profile?username=MANOJJADHAV4000&data=followers,repositories,stars,commits&theme=radical&title_color=00F5FF&icon_color=79FF97" 
+    alt="GitHub WidgetBox Profile"
+    width="85%"
+    style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0, 255, 255, 0.2);" 
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=MANOJJADHAV4000&theme=radical&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" 
+    alt="GitHub Streak Stats" 
+    width="85%"
+  />
 
 </div>
 
