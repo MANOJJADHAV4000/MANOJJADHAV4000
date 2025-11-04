@@ -1,125 +1,112 @@
-<!-- 🚀 MANOJ MAHADEV JADHAV | Futuristic GitHub Profile -->
+<!-- 🌟 MANOJ MAHADEV JADHAV – GITHUB PROFILE README 🌟 -->
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Manoj+Mahadev+Jadhav;Electronics+%26+Telecommunication+Engineer;Full+Stack+Developer+%7C+Automation+%7C+AI;Building+Future+Between+Hardware+%26+Code+⚡" alt="Typing SVG" />
-  
-</div>
+<h1 align="center">👋 Hey there, I'm Manoj Mahadev Jadhav</h1>
 
----
+<h3 align="center">💻 IT System Engineer | 🧠 AI & IoT Enthusiast | ⚡ PCB & Circuit Designer</h3>
 
-<div align="center">
-
-### 🌌 *"Turning ideas into innovation — one circuit & line of code at a time."*
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+System+Engineer+%F0%9F%92%BB;Electronics+and+IoT+Developer+%F0%9F%94%8C;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8E%AF;PCB+%26+Circuit+Designer+%F0%9F%94%8D" />
+</p>
 
 ---
 
-### 🧠 About Me  
-- 🎓 3rd Year **Electronics & Telecommunication Engineering** student  
-- 💡 Passionate about **IoT, AI Automation, and Embedded Systems**  
-- 💻 Building full-stack apps using **Next.js**, **FastAPI**, and **MongoDB**  
-- 🧠 Currently learning **SoC Design & Verilog**  
-- 🧰 Running a custom **NAS + Docker home lab**  
-- ⚡ Motto: *“Code. Automate. Innovate.”*
+### 🚀 About Me
+
+- 🧑‍💻 Currently working as **IT System Engineer**
+- 🤖 Passionate about **Electronics, AI/ML, and IoT**
+- 🛠️ I design and develop **PCBs**, **Embedded Systems**, and **Smart Automation Projects**
+- 🌐 Building **Full Stack Web Apps** using **PHP | MySQL | Next.js | Node.js**
+- 💡 Always exploring new technologies like **Raspberry Pi**, **Arduino**, and **Edge AI**
+- 📍 Based in **India**
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Tech Stack
 
-<div align="center">
+#### 💻 Programming & Scripting
+`C` • `C++` • `Python` • `PHP` • `JavaScript` • `Bash`
 
-#### 💻 Languages  
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![cpp](https://skillicons.dev/icons?i=cpp)
-![js](https://skillicons.dev/icons?i=js)
-![ts](https://skillicons.dev/icons?i=ts)
+#### 🧩 Frameworks & Tools
+`Next.js` • `Express.js` • `Node.js` • `Tailwind CSS` • `Bootstrap` • `React`
 
-#### ⚙️ Frameworks & Tools  
-![nextjs](https://skillicons.dev/icons?i=nextjs)
-![react](https://skillicons.dev/icons?i=react)
-![fastapi](https://img.shields.io/badge/FastAPI-00BFAE?style=for-the-badge&logo=fastapi&logoColor=white)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
-![express](https://skillicons.dev/icons?i=express)
+#### 🛢️ Databases
+`MySQL` • `MongoDB` • `SQLite`
 
-#### 🗄️ Databases & DevOps  
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-![docker](https://skillicons.dev/icons?i=docker)
-![linux](https://skillicons.dev/icons?i=linux)
-![bash](https://skillicons.dev/icons?i=bash)
-![raspberrypi](https://skillicons.dev/icons?i=raspberrypi)
+#### ⚙️ Hardware & Design
+`Arduino` • `Raspberry Pi` • `ESP32` • `Proteus` • `KiCad` • `PCB Design`
 
-</div>
+#### 🧠 AI / ML
+`TensorFlow` • `Scikit-learn` • `OpenCV` • `Pandas` • `NumPy`
 
 ---
 
-### 🚀 Featured Projects  
+### 🧩 Featured Projects
 
-| 🌟 Project | 🧩 Stack | 🔗 Link |
-|-------------|-----------|----------|
-| 🎬 **AnimeVerse** – Anime Streaming Platform | Next.js • MongoDB • Tailwind | [🔗 View Repo](https://github.com/MANOJJADHAV4000/anime-app) |
-| 🤖 **AI Video Automator** – Automated Editing & Upload | Python • FFmpeg • APIs | Coming Soon |
-| 💾 **DIY NAS Setup** – Smart Home Server | Ubuntu • Docker • Plex | Private |
-| 🔌 **IoT Smart Monitor** – Real-time Data Logger | Raspberry Pi • Flask | Coming Soon |
+#### 💡 Smart IoT Energy Monitoring System
+> Real-time power usage monitoring using NodeMCU, MQTT, and web dashboard with alert notifications.  
+🔗 **Tech:** ESP8266, IoT, PHP, MySQL, Chart.js
 
----
+#### 🤖 AI-based Object Detection Surveillance
+> A camera-based system using OpenCV + YOLO for real-time detection and alerting.  
+🔗 **Tech:** Python, AI/ML, OpenCV, Raspberry Pi
 
-### ⚡ GitHub Analytics
+#### ⚙️ Automated Water Level Controller
+> Microcontroller-based control system for water tanks with LCD and relay modules.  
+🔗 **Tech:** Arduino, C++, Proteus
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MANOJJADHAV4000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOJJADHAV4000&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+#### 🧠 ML-based Fault Prediction in Motors
+> Predicting equipment faults using vibration data analysis and ML algorithms.  
+🔗 **Tech:** Python, Scikit-learn, Pandas
 
-  <br/>
+#### 🌐 Dynamic Anime Streaming Platform
+> Full-stack anime website with MongoDB Atlas & Next.js frontend.  
+🔗 **Tech:** Next.js, Tailwind CSS, MongoDB, Node.js
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJJADHAV4000&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-  
-</div>
-
----
-
-### 🏆 Achievements & Badges
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=MANOJJADHAV4000&theme=onedark&no-frame=true&row=1&margin-w=15)
-  
-![Visitor Badge](https://komarev.com/ghpvc/?username=MANOJJADHAV4000&color=blueviolet&style=flat-square)
-
-</div>
+#### 🧰 Inventory & ERP Management System
+> College ERP platform integrating academic management & network access control.  
+🔗 **Tech:** Python, FastAPI, MongoDB, React
 
 ---
 
-### 🌐 Connect With Me
+### 🧑‍🔧 System Engineer Side Projects
 
-<div align="center">
-  <a href="https://linkedin.com/in/manojmjadhav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:manojmjadhav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/MANOJJADHAV4000"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
----
-
-<div align="center">
-
-### ✨ Fun Extras
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MANOJJADHAV4000&bg_color=0f172a&color=38bdf8&line=00FFFF&point=FFFFFF&hide_border=true&area=true" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/MANOJJADHAV4000/MANOJJADHAV4000/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-</div>
+- 🖥️ NAS Server for media, backups & automation  
+- 📡 IPTV + Dockerized Home Lab Setup  
+- ☁️ Cloud hosting services on VPS  
+- 🧩 Self-hosted n8n, Plex, PhotoPrism, and monitoring stack  
 
 ---
 
-<div align="center">
+### 🏆 GitHub Stats
 
-### ⚡ “Creating smart tech, one repo at a time.”
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MANOJJADHAV4000&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=MANOJJADHAV4000&theme=radical&hide_border=true" />
+</p>
 
-⭐ **If you like my projects — don’t forget to follow & star!**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJJADHAV4000&layout=compact&theme=radical" />
+</p>
 
-</div>
+---
+
+### 🛰️ Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/manoj-jadhav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manojjadhav4000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/MANOJJADHAV4000"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 💫 Fun Quote
+> “The best engineers build bridges between hardware and software — not walls.”
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
+<p align="center">⚡ Crafted with passion by <b>Manoj Mahadev Jadhav</b></p>
