@@ -1,105 +1,125 @@
-<!-- 🌌 MANOJ MAHADEV JADHAV | GITHUB PROFILE README -->
-
-<!-- Header with Gradient -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Manoj+Mahadev+Jadhav!;Electronics+Engineer+⚡;Full-Stack+Developer+💻;AI+and+Automation+Enthusiast+🤖" alt="Typing SVG" />
-</h1>
-
----
-
-<div align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="60" />  
-  <b><i>"Innovating between Circuits ⚙️ and Code 💻"</i></b>
-</div>
-
----
-
-## 🧠 About Me  
-🚀 **3rd-Year Electronics & Telecommunication Engineering Student**  
-💡 Blending **hardware and software** to build smart systems  
-🧩 Working on **NAS, AI tools, and IoT automation**  
-⚙️ Exploring **SoC Design, Verilog, and FastAPI**  
-🎯 Always curious to learn something *new and challenging!*
-
----
-
-## 🛠️ My Tech Universe
-
-<div align="center">
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Frameworks & Libraries  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-
-### 🗄️ Databases & Tools  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects  
-| 🌟 Project | ⚙️ Tech Stack | 🔗 Link |
-|------------|----------------|---------|
-| 🎬 **Anime Streaming Platform** | Next.js, MongoDB, Tailwind | [View Repo](https://github.com/ManojMJadhav/anime-app) |
-| 🤖 **AI Automation Suite** | Python, FFmpeg, APIs | Coming soon |
-| 🧩 **DIY NAS Server** | Ubuntu, Docker, Plex | Private |
-| 🔌 **IoT Smart Monitor** | Raspberry Pi, Flask | Coming soon |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MANOJJADHAV4000&show_icons=true&theme=radical&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MANOJJADHAV4000&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJJADHAV4000&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/manojmjadhav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:manojmjadhav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ManojMJadhav"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
----
+<!-- 🚀 MANOJ MAHADEV JADHAV | Futuristic GitHub Profile -->
 
 <div align="center">
   
-### ✨ Fun Zone
-<img src="https://github-profile-trophy.vercel.app/?username=ManojMJadhav&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-
-<img src="https://raw.githubusercontent.com/ManojMJadhav/ManojMJadhav/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Manoj+Mahadev+Jadhav;Electronics+%26+Telecommunication+Engineer;Full+Stack+Developer+%7C+Automation+%7C+AI;Building+Future+Between+Hardware+%26+Code+⚡" alt="Typing SVG" />
+  
 </div>
 
 ---
-
-<h3 align="center">💬 “Code. Create. Automate. Repeat.”</h3>
 
 <div align="center">
-  <img src="https://i.imgur.com/gG3zN8k.gif" width="200px" />
+
+### 🌌 *"Turning ideas into innovation — one circuit & line of code at a time."*
+
 </div>
 
 ---
 
-⭐ **If you like my work, consider following me and starring my repos!**
+### 🧠 About Me  
+- 🎓 3rd Year **Electronics & Telecommunication Engineering** student  
+- 💡 Passionate about **IoT, AI Automation, and Embedded Systems**  
+- 💻 Building full-stack apps using **Next.js**, **FastAPI**, and **MongoDB**  
+- 🧠 Currently learning **SoC Design & Verilog**  
+- 🧰 Running a custom **NAS + Docker home lab**  
+- ⚡ Motto: *“Code. Automate. Innovate.”*
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### 💻 Languages  
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![cpp](https://skillicons.dev/icons?i=cpp)
+![js](https://skillicons.dev/icons?i=js)
+![ts](https://skillicons.dev/icons?i=ts)
+
+#### ⚙️ Frameworks & Tools  
+![nextjs](https://skillicons.dev/icons?i=nextjs)
+![react](https://skillicons.dev/icons?i=react)
+![fastapi](https://img.shields.io/badge/FastAPI-00BFAE?style=for-the-badge&logo=fastapi&logoColor=white)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
+![express](https://skillicons.dev/icons?i=express)
+
+#### 🗄️ Databases & DevOps  
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+![docker](https://skillicons.dev/icons?i=docker)
+![linux](https://skillicons.dev/icons?i=linux)
+![bash](https://skillicons.dev/icons?i=bash)
+![raspberrypi](https://skillicons.dev/icons?i=raspberrypi)
+
+</div>
+
+---
+
+### 🚀 Featured Projects  
+
+| 🌟 Project | 🧩 Stack | 🔗 Link |
+|-------------|-----------|----------|
+| 🎬 **AnimeVerse** – Anime Streaming Platform | Next.js • MongoDB • Tailwind | [🔗 View Repo](https://github.com/MANOJJADHAV4000/anime-app) |
+| 🤖 **AI Video Automator** – Automated Editing & Upload | Python • FFmpeg • APIs | Coming Soon |
+| 💾 **DIY NAS Setup** – Smart Home Server | Ubuntu • Docker • Plex | Private |
+| 🔌 **IoT Smart Monitor** – Real-time Data Logger | Raspberry Pi • Flask | Coming Soon |
+
+---
+
+### ⚡ GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MANOJJADHAV4000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOJJADHAV4000&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJJADHAV4000&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  
+</div>
+
+---
+
+### 🏆 Achievements & Badges
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=MANOJJADHAV4000&theme=onedark&no-frame=true&row=1&margin-w=15)
+  
+![Visitor Badge](https://komarev.com/ghpvc/?username=MANOJJADHAV4000&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/manojmjadhav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:manojmjadhav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/MANOJJADHAV4000"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Fun Extras
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MANOJJADHAV4000&bg_color=0f172a&color=38bdf8&line=00FFFF&point=FFFFFF&hide_border=true&area=true" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/MANOJJADHAV4000/MANOJJADHAV4000/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Creating smart tech, one repo at a time.”
+
+⭐ **If you like my projects — don’t forget to follow & star!**
+
+</div>
