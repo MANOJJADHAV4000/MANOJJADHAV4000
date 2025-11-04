@@ -1,101 +1,112 @@
-<!-- ⚡ MANOJ MAHADEV JADHAV – Modern GitHub Profile README ⚡ -->
+<!-- ⚡ MANOJ MAHADEV JADHAV – Futuristic GitHub Profile README ⚡ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manoj+Mahadev+Jadhav!;IT+System+Engineer+%7C+IoT+%26+AI+Developer;Electronics+%26+Full+Stack+Creator;Welcome+to+my+Digital+Universe!+🌌" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=180&section=header&text=Manoj%20Mahadev%20Jadhav&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+
+<h3 align="center">💻 IT System Engineer | 🧠 AI & IoT Innovator | ⚙️ Circuit & PCB Designer</h3>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=MANOJJADHAV4000&data=followers,repositories,stars,commits&theme=radical&title_color=00F5FF" />
+</p>
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-jadhav)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojjadhav4000@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANOJJADHAV4000)
+### 🧩 About Me
+
+🚀 Passionate **IT System Engineer** with a knack for **automation, electronics, and AI-driven solutions**.  
+⚙️ Bridging the gap between **hardware & software** through real-world IoT and AI projects.  
+💡 Exploring **Edge AI**, **HomeLab automation**, and **network orchestration**.  
+🌍 Based in **India**, collaborating globally 🌐.  
 
 ---
 
-### ⚙️ About Me
+### 🧠 Skills Snapshot
 
-💼 **IT System Engineer** passionate about blending hardware, software, and automation.  
-🧠 I love working with **AI/ML**, **IoT**, and **Full-Stack Development**.  
-🛠️ Designing **PCBs**, **Embedded Systems**, and **Smart Network Infrastructure**.  
-💡 Always exploring new tech in **Edge Computing**, **Cloud**, and **Automation**.  
-🌍 Based in **India** 🇮🇳  
+<div align="center">
 
----
+#### 🧩 Programming, Web & Scripting
+![Python](https://skillicons.dev/icons?i=python,php,js,html,css,nodejs,nextjs,react,tailwind)
 
-### 🧠 Tech Arsenal
+#### ⚙️ Hardware & Embedded Systems
+![Arduino](https://skillicons.dev/icons?i=arduino,raspberrypi)
+<img src="https://img.shields.io/badge/Proteus-0066FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
+<img src="https://img.shields.io/badge/PCB%20Design-E34F26?style=for-the-badge&logoColor=white" />
 
-| 💻 Programming | 🌐 Web & Frameworks | ⚡ Hardware & Design | 🧩 AI / ML | 🛢️ Databases |
-|:---------------|:------------------:|:--------------------:|:----------:|:-------------:|
-| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![PHP](https://skillicons.dev/icons?i=php) | ![Next.js](https://skillicons.dev/icons?i=nextjs) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Arduino](https://skillicons.dev/icons?i=arduino) ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![KiCad](https://skillicons.dev/icons?i=kicad) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn) ![OpenCV](https://skillicons.dev/icons?i=opencv) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+#### 🧠 AI & Data Science
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow,opencv,pytorch)
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
----
+#### 🗄️ Databases & Cloud
+![MySQL](https://skillicons.dev/icons?i=mysql,mongodb)
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 
-### 🚀 Highlighted Projects
-
-🛰️ **Smart IoT Energy Monitor**  
-Real-time power usage analytics with alerts & web dashboard.  
-`ESP8266` • `MQTT` • `PHP` • `MySQL` • `Chart.js`
-
-🤖 **AI-based Object Detection Surveillance**  
-Smart camera system using YOLO + OpenCV for detection and alerts.  
-`Python` • `AI/ML` • `Raspberry Pi`
-
-💧 **Automated Water Level Controller**  
-Microcontroller-based control with LCD & relay modules.  
-`Arduino` • `Proteus`
-
-🧠 **Motor Fault Prediction using ML**  
-Predicts motor faults via vibration analysis.  
-`Python` • `Pandas` • `Scikit-learn`
-
-🎬 **Anime Streaming Platform**  
-Next.js app with MongoDB backend & sleek UI.  
-`Next.js` • `Tailwind` • `MongoDB`
-
-🏫 **College ERP + Network Access Control**  
-ERP with academic management + internet access monitoring.  
-`Python` • `FastAPI` • `React`
+</div>
 
 ---
 
-### 🧰 System Engineer Projects
+### ⚡ Featured Projects
 
-🧩 Self-hosted HomeLab → Plex • PhotoPrism • n8n  
-☁️ VPS Hosting Stack → Nginx • Docker • Node Apps  
-🔋 NAS + RAID setup for backups & automation  
-📡 IPTV Streaming from NAS server  
+| Project | Description | Tech Stack |
+|:--------|:-------------|:------------|
+| 🛰️ **Smart IoT Energy Monitor** | Real-time power analytics with alerts & dashboards. | ESP8266 • MQTT • PHP • MySQL |
+| 🤖 **AI Object Detection Surveillance** | Smart CCTV using YOLO + OpenCV on Raspberry Pi. | Python • OpenCV • ML |
+| 💧 **Auto Water Level Controller** | Relay + LCD-based system for tank automation. | Arduino • C++ • Proteus |
+| 🧠 **Motor Fault Prediction** | Predictive maintenance using ML models. | Scikit-learn • Pandas • NumPy |
+| 🌐 **Anime Streaming Platform** | Dynamic anime site with MongoDB & Tailwind UI. | Next.js • Node.js • MongoDB |
+| 🏫 **College ERP + Network Control** | Full ERP with academic and access management. | FastAPI • React • Python |
+
+---
+
+### 🧰 System Engineer Playground
+
+- ☁️ **VPS Stack:** Nginx • Docker • Node • Mongo • Plex  
+- 💾 **NAS Server:** Automated backup, IPTV, & n8n workflow  
+- ⚙️ **Home Automation:** IoT edge control + AI decision logic  
+- 🛰️ **Network Tools:** DHCP, PXE OS installs, & monitoring  
 
 ---
 
 ### 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANOJJADHAV4000&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOJJADHAV4000&theme=tokyonight&hide_border=true" width="48%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MANOJJADHAV4000&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MANOJJADHAV4000&theme=react&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANOJJADHAV4000&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANOJJADHAV4000&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </div>
 
 ---
 
-### 🧠 Daily Dev Stats
+### 🌈 Quick Stats & Visitors
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MANOJJADHAV4000&theme=tokyonight&layout=compact&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=MANOJJADHAV4000&style=for-the-badge&color=00F5FF" />
+  <img src="https://img.shields.io/github/followers/MANOJJADHAV4000?style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-### 🪩 Fun Section
+### 🔗 Connect With Me
 
-> _"Turning circuits and code into creativity."_ ⚡  
+<p align="center">
+  <a href="mailto:manojjadhav4000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/manoj-jadhav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MANOJJADHAV4000"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-🕹️ Currently exploring: **Edge AI, Cloud Automation & IoT Security**  
-🌱 Learning: **DevOps + ML Integration**  
-🎯 Goal: Build a personal AI automation suite for smart systems  
+---
 
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F5FF&height=120&section=footer" />
+
+</div>
 ---
 
 ### ✨ Visitor Count
