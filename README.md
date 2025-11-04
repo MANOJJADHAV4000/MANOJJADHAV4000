@@ -107,24 +107,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F5FF&height=120&section=footer" />
 
 </div>
----
-
-### ✨ Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MANOJJADHAV4000&style=for-the-badge&color=00F5FF" />
-</p>
-
----
-
-<h3 align="center">🚀 “Innovate, Automate, Dominate.” – Manoj M. Jadhav</h3>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
-</div>
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
-<p align="center">⚡ Crafted with passion by <b>Manoj Mahadev Jadhav</b></p>
